@@ -1,5 +1,5 @@
 # 특정 파일에 대한 책임자 지정
-README.md   @username
+README.md   @kioiti
 
 # 디렉토리 전체에 대한 책임자 지정
 /docs/     @organization/doc-team
@@ -8,4 +8,4 @@ README.md   @username
 /src/*   @organization/python-team
 
 # 레포지토리의 모든 코드에 대한 책임자 지정
-*   @username
+*   @kioiti
